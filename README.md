@@ -1,4 +1,7 @@
 ![logo](https://github.com/Shmn2/Shmn2/blob/main/my_cover-ezgif.com-crop.gif)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=delowerhossentuhin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 <h1>Hi 👋, I'm Delower Hossen Tuhin</h1>
 <p>Exploring Algorithms, AI & Machine Learning | Researcher | Turning complex problems into elegant code 💡💻</p>
 <h2>🚀 Languages and Tools I Use</h2>
