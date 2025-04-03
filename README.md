@@ -1,3 +1,4 @@
+![logo](https://github.com/Shmn2/Shmn2/blob/main/my_cover-ezgif.com-crop.gif)
 <h1>Hi 👋, I'm Delower Hossen Tuhin</h1>
 <p>Computer Science Student | Enthusiast in Algorithms, Machine Learning, Artificial Intelligence, and Computer Vision.</p>
 <h2>🚀 Languages and Tools I Use</h2>
