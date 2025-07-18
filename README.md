@@ -43,6 +43,12 @@
   <a href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" target="_blank" title="Pandas" style="transition: transform 0.2s;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="border-radius: 8px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" target="_blank" title="TensorFlow" style="transition: transform 0.2s;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" style="border-radius: 8px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" target="_blank" title="R" style="transition: transform 0.2s;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" style="border-radius: 8px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
 
   <a href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" target="_blank" title="Scikit-learn" style="transition: transform 0.2s;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" style="border-radius: 8px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
