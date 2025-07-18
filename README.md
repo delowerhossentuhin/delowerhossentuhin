@@ -76,7 +76,60 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/delower-hossen-tuhin-7025b5266/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/dellowerhossentuhin" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=delowerhossentuhin&show_icons=true&locale=en" alt="delowerhossentuhin" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delowerhossentuhin&" alt="delowerhossentuhin" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=delowerhossentuhin&show_icons=true&locale=en&layout=compact" alt="delowerhossentuhin" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delowerhossentuhin" alt="delowerhossentuhin" /></a></p>
+
+<div style="
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+">
+
+  <h2 style="text-align: center; font-weight: 700; font-size: 2rem; color: #1a1a1a;">
+    📊 GitHub Stats
+  </h2>
+
+  <!-- Row 1: GitHub Stats & Streaks -->
+  <div style="display: flex; flex-direction: row; width: 100%; gap: 30px;">
+    <div style="flex: 1;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=delowerhossentuhin&show_icons=true&theme=radical&hide_border=false&locale=en"
+        alt="GitHub Overview Stats"
+        style="width: 500px; height: 220px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"
+      />
+    </div>
+    <div style="flex: 1;">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=delowerhossentuhin&theme=radical&hide_border=false"
+        alt="GitHub Streak Stats"
+        style="width: 500px; height: 220px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"
+      />
+    </div>
+    <div style="flex: 1;">
+      <img
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=delowerhossentuhin&show_icons=true&locale=en&layout=compact&theme=radical"
+        alt="Top Languages"
+        style="width: 400px; height: 220px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"
+      />
+    </div>
+  </div>
+
+  
+
+
+  <!-- Row 2: Trophies -->
+  <div style="width: 100%;">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=delowerhossentuhin&theme=flat&margin-w=10"
+      alt="GitHub Trophies"
+      style="width: 100%; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"
+    />
+  </div>
+
+</div>
