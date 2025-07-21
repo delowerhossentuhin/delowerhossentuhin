@@ -74,11 +74,11 @@
       />
     </div>
     <div style="flex: 1;">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=delowerhossentuhin&theme=radical&hide_border=false"
-        alt="GitHub Streak Stats"
-        style="width: 500px; height: 220px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"
-      />
+         <img
+      src="https://streak-stats.demolab.com/?user=delowerhossentuhin&theme=radical&hide_border=false"
+      alt="GitHub Streak Stats"
+      style="width: 500px; height: 220px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"
+    />
     </div>
     <div style="flex: 1;">
       <img
@@ -95,10 +95,11 @@
   <!-- Row 2: Trophies -->
   <div style="width: 100%;">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=delowerhossentuhin&theme=flat&margin-w=10"
-      alt="GitHub Trophies"
-      style="width: 100%; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"
-    />
+  src="https://github-profile-trophy.vercel.app/?username=delowerhossentuhin&theme=gruvbox"
+  alt="GitHub Trophies"
+  style="width: 100%; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover;"
+/>
+
   </div>
 
 </div>
